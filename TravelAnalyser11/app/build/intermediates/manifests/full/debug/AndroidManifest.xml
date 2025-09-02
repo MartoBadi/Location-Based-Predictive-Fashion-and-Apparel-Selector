@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ibm.mobileappbuilder.travelanalyser1.pkg120161001081254"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.ibm.mobileappbuilder.travelanalyser1.pkg120161001081254.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAyV5ubLJhXkoryyuXsBGx6NNCKvYCRQ6E" />
+
+        <activity
+            android:name="com.ibm.mobileappbuilder.travelanalyser1.pkg120161001081254.ui.TravelAnalyser11Main"
+            android:label="@string/travelAnalyser11Main"
+            android:theme="@style/AppTheme.Drawer" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.ibm.mobileappbuilder.travelanalyser1.pkg120161001081254.ui.TravelDestinationScreen1Activity" />
+        <activity android:name="com.ibm.mobileappbuilder.travelanalyser1.pkg120161001081254.ui.SuggestedclothingActivity" />
+        <activity android:name="com.worklight.wlclient.ui.UIActivity" />
+    </application>
+
+</manifest>

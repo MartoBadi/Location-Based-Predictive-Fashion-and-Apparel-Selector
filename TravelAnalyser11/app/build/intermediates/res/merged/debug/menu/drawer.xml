@@ -1,0 +1,9 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+          <item android:id="@+id/entry0" android:title="Travel Destination"/>
+        <item android:id="@+id/entry1" android:title="suggested clothing"/>
+  </group>
+</menu>
+
+

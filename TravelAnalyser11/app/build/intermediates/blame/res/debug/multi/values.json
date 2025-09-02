@@ -1,0 +1,1108 @@
+[
+    {
+        "outputFile": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 54,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 55,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 55,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 47,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 47,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 50,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 50,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 46,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 46,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 43,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 50,
+                        "endColumn": 43,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 50,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 50,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 54,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 54,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 51,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 51,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 84,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 84,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 71,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 71,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 80,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1232,
+                        "endColumn": 80,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 90,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 90,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 82,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 82,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 88,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 88,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 78,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\config.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 78,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 71,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\config.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 71,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 56,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 56,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 85,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\config.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 85,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 86,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 86,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2378
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2383,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2807
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 5,
+                        "startOffset": 1151,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2812,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3033
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2062,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3038,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3259
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3264,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3485
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2522,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3490,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3951
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2056
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 54,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 55,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 55,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 47,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 47,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 50,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 50,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 46,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 46,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 43,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 50,
+                        "endColumn": 43,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 50,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 50,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 54,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 54,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 51,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 51,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 84,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 84,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 71,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 71,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 80,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1232,
+                        "endColumn": 80,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 90,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 90,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 82,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 82,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 88,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 88,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 78,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\config.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 78,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 71,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\config.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 71,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 56,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 56,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 85,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\config.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 85,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 86,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 86,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2378
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2383,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2807
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 5,
+                        "startOffset": 1151,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2812,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3033
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2062,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3038,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3259
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3264,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3485
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2522,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3490,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3951
+                },
+                "from": {
+                    "file": "C:\\Users\\marti\\OneDrive\\Escritorio\\proyecto_tpdi\\TravelAnalyser11\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2056
+                    }
+                }
+            }
+        ]
+    }
+]

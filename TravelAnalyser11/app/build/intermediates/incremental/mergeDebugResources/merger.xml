@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res"/><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\build\generated\res\rs\debug"/><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res"><file name="ab_transparent" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-mdpi\ab_transparent.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="jpg_dropdownaboutsuitsv4806" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-nodpi\jpg_dropdownaboutsuitsv4806.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="png_iconhdpi" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-nodpi\png_iconhdpi.png" qualifiers="nodpi-v4" type="drawable"/><file name="png_iconmdpi" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-nodpi\png_iconmdpi.png" qualifiers="nodpi-v4" type="drawable"/><file name="png_iconxhdpi" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-nodpi\png_iconxhdpi.png" qualifiers="nodpi-v4" type="drawable"/><file name="png_iconxxhdpi" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-nodpi\png_iconxxhdpi.png" qualifiers="nodpi-v4" type="drawable"/><file name="png_iconxxxhdpi" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\drawable-nodpi\png_iconxxxhdpi.png" qualifiers="nodpi-v4" type="drawable"/><file name="suggestedclothing_custom" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\layout\suggestedclothing_custom.xml" qualifiers="" type="layout"/><file name="traveldestinationscreen1_custom" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\layout\traveldestinationscreen1_custom.xml" qualifiers="" type="layout"/><file name="drawer" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\menu\drawer.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values\colors.xml" qualifiers=""><drawable name="ic_location_web_site">@drawable/ic_location_web_site_dark</drawable><color name="window_background">#F3F3F3</color><drawable name="ic_device_access_call">@drawable/ic_device_access_call_dark</drawable><color name="textBarColor">#545454</color><color name="primaryDark">#ffa6a6a6</color><drawable name="background_card">@drawable/bg_light_card</drawable><color name="textColor">#545454</color><color name="textColorMuted">#4d545454</color><color name="cardBackgroundColor">#99F3F3F3</color><color name="selectionColor">#44545454</color><color name="textColorSecondary">#99545454</color><color name="actionbar_background">#DEDEDE</color><drawable name="activity_background_image">@android:color/transparent</drawable><drawable name="ic_content_email">@drawable/ic_content_email_dark</drawable><drawable name="ic_location_place">@drawable/ic_location_place_dark</drawable></file><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values\config.xml" qualifiers=""><string name="dynamic_url">https://appbuilder.ibmcloud.com/api/app/data/</string><string name="api_key">F5bQp0ulUurbWLjb5UVWDwOLpvrfGmnOw1cPFgZ49F</string><string name="app_id">083e2f69-a5c2-4a6c-9a37-c48cfbd446d1</string></file><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values\strings.xml" qualifiers=""><string formatted="false" name="travelAnalyser11Main">Travel Analyser 1.1</string><string name="app_name">Travel Analyser 1.1</string></file><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values\styles.xml" qualifiers=""><style name="TravelDestinationScreen1_view0" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="windowActionBar">false</item>
+    </style><style name="TravelDestinationScreen1_view1" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style><style name="Suggestedclothing_view2" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style><style name="Suggestedclothing_view1" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style><style name="Suggestedclothing_view0" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style><style name="LabelTextStyle" parent="TextStyle">
+        <item name="android:minHeight">36dp</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/textColorSecondary</item>
+    </style><style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+
+        <!-- toolbar -->
+        <item name="colorPrimary">@color/actionbar_background</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:textColorPrimary">@color/textBarColor</item>
+
+        <!-- colors -->
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:textColorHint">@color/textColorSecondary</item>
+        <item name="colorAccent">@color/actionbar_background</item>
+        <item name="colorControlHighlight">@color/primaryDark</item>
+
+        <!-- toolbar styles -->
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeStyle">@style/ActionModeStyle</item>
+    </style></file><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values-v19\styles.xml" qualifiers="v19"><style name="AppTheme.Drawer">
+        <item name="android:windowTranslucentStatus">false</item>
+    </style></file><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values-v21\styles.xml" qualifiers="v21"><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowEnterTransition">@android:transition/explode</item>
+        <item name="android:windowReturnTransition">@android:transition/explode</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+    </style><style name="AppTheme.Drawer">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style></file><file path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\build\generated\res\rs\debug"/><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\debug\res"/></dataSet><mergedItems/></merger>

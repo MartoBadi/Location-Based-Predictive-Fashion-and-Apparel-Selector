@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#DEDEDE</color>
+    <color name="cardBackgroundColor">#99F3F3F3</color>
+    <color name="primaryDark">#ffa6a6a6</color>
+    <color name="selectionColor">#44545454</color>
+    <color name="textBarColor">#545454</color>
+    <color name="textColor">#545454</color>
+    <color name="textColorMuted">#4d545454</color>
+    <color name="textColorSecondary">#99545454</color>
+    <color name="window_background">#F3F3F3</color>
+    <drawable name="activity_background_image">@android:color/transparent</drawable>
+    <drawable name="background_card">@drawable/bg_light_card</drawable>
+    <drawable name="ic_content_email">@drawable/ic_content_email_dark</drawable>
+    <drawable name="ic_device_access_call">@drawable/ic_device_access_call_dark</drawable>
+    <drawable name="ic_location_place">@drawable/ic_location_place_dark</drawable>
+    <drawable name="ic_location_web_site">@drawable/ic_location_web_site_dark</drawable>
+    <string name="api_key">F5bQp0ulUurbWLjb5UVWDwOLpvrfGmnOw1cPFgZ49F</string>
+    <string name="app_id">083e2f69-a5c2-4a6c-9a37-c48cfbd446d1</string>
+    <string name="app_name">Travel Analyser 1.1</string>
+    <string name="dynamic_url">https://appbuilder.ibmcloud.com/api/app/data/</string>
+    <string formatted="false" name="travelAnalyser11Main">Travel Analyser 1.1</string>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+
+        <!-- toolbar -->
+        <item name="colorPrimary">@color/actionbar_background</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:textColorPrimary">@color/textBarColor</item>
+
+        <!-- colors -->
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:textColorHint">@color/textColorSecondary</item>
+        <item name="colorAccent">@color/actionbar_background</item>
+        <item name="colorControlHighlight">@color/primaryDark</item>
+
+        <!-- toolbar styles -->
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeStyle">@style/ActionModeStyle</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="LabelTextStyle" parent="TextStyle">
+        <item name="android:minHeight">36dp</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/textColorSecondary</item>
+    </style>
+    <style name="Suggestedclothing_view0" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="Suggestedclothing_view1" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="Suggestedclothing_view2" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="TravelDestinationScreen1_view0" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="TravelDestinationScreen1_view1" parent="TextStyle">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+</resources>

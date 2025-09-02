@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\assets"><file name="wlclient.properties" path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\main\assets\wlclient.properties"/></source><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\marti\proyecto_tpdi\TravelAnalyser11\app\src\debug\assets"/></dataSet></merger>

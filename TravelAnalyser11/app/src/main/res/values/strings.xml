@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Travel Analyser 1.1</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="travelAnalyser11Main">Travel Analyser 1.1</string>
+</resources>
+
+
